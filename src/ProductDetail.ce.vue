@@ -14,7 +14,7 @@ defineProps({
 
 const items = computed(() => [
   {
-    name: 'Reference number ABN AMRO',
+    name: 'Reference number',
     value: 'xxx',
   },
   {
